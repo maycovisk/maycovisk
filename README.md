@@ -1,4 +1,5 @@
-## Olá eu sou o Maycon de Lima César, aprendiz de programação e tecnologia!
+## Olá, meu nome é Maycon.
+## Estudante na IFSP Campos do Jordão
 <div align="center">
   <a href="https://github.com/maycovisk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycovisk&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
