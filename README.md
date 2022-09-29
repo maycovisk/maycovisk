@@ -2,8 +2,8 @@
 #### Estudante ADS na IFSP Campos do Jordão 3/6.
 #### SQL Oracle ** C ** C++ ** Linux ** REDES ** Servidor
 #### Atual Analista de TI
-#### Futuro Programador
-## ............................................................................
+#### Futuro Desenvolvedor
+<hr>
  
 
 <div align="center">
@@ -19,8 +19,6 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg">
 </div>
   
   ##
