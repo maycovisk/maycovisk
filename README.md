@@ -4,6 +4,19 @@
 </div>
 <br>
 
+```
+funcao motivar()
+    inteiro opcao = 1
+    enquanto opcao == 1 faca
+        escreva("Não desista dos seus sonhos, pois se eles se forem, você continuará existindo...")
+        escreva("...mas terá deixado de viver. - Mario Sergio Cortella")
+        escreva("Deseja ver essa mensagem novamente para ser lembrado do quão importante seu sonho é?")
+        escreva("(Digite 1 para sim ou 0 para não)")
+        leia(opcao)
+    fimenquanto
+fimfuncao
+````
+
 <div align="center">
   <a href="https://github.com/maycovisk/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycovisk&show_icons=true&theme=dracula"/><br>
